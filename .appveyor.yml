@@ -1,3 +1,5 @@
+image: Ubuntu
+
 environment:
   nodejs_version: "18"
 
