@@ -4,8 +4,9 @@ environment:
   nodejs_version: "18"
 
 branches:
-  only: 
-    - main # ветка git
+  only:
+    - master  # ветка git
+    - main
 
 cache: node_modules  # кеширование
 
